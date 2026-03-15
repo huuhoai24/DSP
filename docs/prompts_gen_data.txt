@@ -1,0 +1,143 @@
+=========================================================
+  PROMPT GEN DATA — BỘ A (Đa yếu tố Medium)
+=========================================================
+
+--- SYSTEM ---
+Bạn là chuyên gia tạo dữ liệu huấn luyện cho mô hình phân loại triệu chứng nhi khoa.
+Nhiệm vụ: tạo các câu mô tả triệu chứng theo đúng yêu cầu bên dưới.
+Chỉ trả về JSON array, không giải thích, không markdown.
+
+--- USER ---
+Tạo 20 câu cho label: [LABEL] — severity: [SEVERITY]
+
+Mỗi câu PHẢI chứa ít nhất 2 trong 3 yếu tố sau:
+  [A1] NARRATIVE PREFIX: phần đầu câu ≥10 từ mô tả bối cảnh (thời tiết / sinh hoạt / ăn uống / đi chơi),
+       triệu chứng chính nằm ở nửa sau câu.
+       Lưu ý: context đầu KHÔNG được chứa keyword của khoa khác ngoài [LABEL].
+
+  [A2] SEVERITY CỘN DỒN: câu dài ≥15 từ, thể hiện rõ mức [SEVERITY] bằng cách:
+       - mild  = 1 triệu chứng đơn nhẹ
+       - moderate = 2-3 triệu chứng kết hợp
+       - severe   = có ít nhất 1 dấu hiệu nguy hiểm rõ ràng
+       
+  [A3] ENT NEGATIVE: câu có chứa ít nhất 1 keyword ENT thông thường (ho / đau / sổ mũi / sốt)
+       nhưng label vẫn là [LABEL], không phải ENT.
+       Bắt buộc có ≥1 triệu chứng đặc trưng của [LABEL] làm anchor rõ ràng.
+
+Quy tắc cứng:
+  - Label phải xác định được dứt khoát, không mơ hồ
+  - Severity phải suy ra được từ nội dung câu, không gán tùy ý
+  - Không dùng từ chung chung làm triệu chứng duy nhất: mệt / quấy / bú kém
+  - Không 2 câu nào quá giống nhau (khác ít nhất 30% token)
+  - Viết bằng ngôn ngữ phụ huynh bình thường, không dùng thuật ngữ y tế phức tạp
+
+Trả về JSON array đúng format này — không thêm bất kỳ thứ gì khác:
+[
+  {
+    "text": "...",
+    "label": "[LABEL]",
+    "severity": "[SEVERITY]",
+    "source_type": "narrative|severity|ent_negative",   // tag yếu tố chính
+    "difficulty": "medium",
+    "note": "..."   // giải thích ngắn tại sao label/severity như vậy
+  },
+  ...
+]
+
+--- CÁCH DÙNG ---
+Thay [LABEL] và [SEVERITY] rồi chạy lần lượt:
+
+  Lần 1:  label=Respiratory,      severity=mild
+  Lần 2:  label=Respiratory,      severity=moderate
+  Lần 3:  label=Respiratory,      severity=severe
+  Lần 4:  label=ENT,              severity=mild
+  Lần 5:  label=ENT,              severity=moderate
+  Lần 6:  label=ENT,              severity=severe
+  Lần 7:  label=Gastroenterology, severity=mild
+  Lần 8:  label=Gastroenterology, severity=moderate
+  Lần 9:  label=Gastroenterology, severity=severe
+  Lần 10: label=Dermatology,      severity=mild
+  Lần 11: label=Dermatology,      severity=moderate
+  Lần 12: label=Dermatology,      severity=severe
+  Lần 13: label=Other-Medical,    severity=moderate
+  Lần 14: label=Other-Medical,    severity=severe
+
+  → Tổng: 14 lần × 20 câu = 280 câu
+  → Chạy 2-3 lần với prompt trên để đủ ~700 câu, đảm bảo đa dạng
+
+
+
+=========================================================
+  PROMPT GEN DATA — BỘ B (Đa yếu tố Hard)
+=========================================================
+
+--- SYSTEM ---
+Bạn là chuyên gia tạo dữ liệu huấn luyện cho mô hình phân loại triệu chứng nhi khoa.
+Nhiệm vụ: tạo các câu mô tả triệu chứng theo đúng yêu cầu bên dưới.
+Chỉ trả về JSON array, không giải thích, không markdown.
+
+--- USER ---
+Tạo 20 câu cho label: [LABEL] — severity: [SEVERITY]
+
+Mỗi câu PHẢI chứa ít nhất 2 trong 3 yếu tố sau:
+  [B1] PHỦ ĐỊNH: cấu trúc bắt buộc "không X nhưng/mà Y"
+       - X là keyword của khoa KHÁC với [LABEL]
+       - Y là triệu chứng chính của [LABEL]
+       - Không được phủ định triệu chứng chính của [LABEL]
+       Ví dụ đúng: "không sổ mũi không đau họng nhưng thở khò khè" → Respiratory
+       Ví dụ sai:  "không thở khò khè nhưng sổ mũi" → sai vì phủ định triệu chứng chính
+
+  [B2] MULTI-SYMPTOM CROSS: câu có triệu chứng của ≥2 khoa khác nhau
+       - Phải có 1 triệu chứng nặng hơn rõ ràng để xác định label chính là [LABEL]
+       - Nếu không phân biệt được → đổi câu khác, không được giữ câu mơ hồ
+
+  [B3] CÂU NGẮN: 2-5 từ
+       - Từ khóa phải là từ đặc trưng nhất của [LABEL]
+       - Severity phải suy ra được từ chính từ khóa đó, không cần thêm context
+       - KHÔNG dùng: mệt / quấy / bú kém / không chịu ăn
+       - Câu ngắn được MIỄN yêu cầu tổ hợp ≥2 yếu tố
+
+Quy tắc cứng:
+  - Label phải xác định được dứt khoát, không mơ hồ
+  - Severity phải suy ra được từ nội dung câu
+  - Không 2 câu nào quá giống nhau (khác ít nhất 30% token)
+  - Viết bằng ngôn ngữ phụ huynh bình thường
+  - Phân bổ trong 20 câu: ~8 câu B1 + ~8 câu B2 + ~4 câu B3
+
+Trả về JSON array đúng format này — không thêm bất kỳ thứ gì khác:
+[
+  {
+    "text": "...",
+    "label": "[LABEL]",
+    "severity": "[SEVERITY]",
+    "source_type": "negation|cross|short",   // tag yếu tố chính
+    "difficulty": "hard",
+    "note": "..."   // giải thích ngắn tại sao label/severity như vậy
+  },
+  ...
+]
+
+--- CÁCH DÙNG ---
+Thay [LABEL] và [SEVERITY] rồi chạy lần lượt:
+
+  Lần 1:  label=Respiratory,      severity=mild
+  Lần 2:  label=Respiratory,      severity=moderate
+  Lần 3:  label=Respiratory,      severity=severe
+  Lần 4:  label=ENT,              severity=mild
+  Lần 5:  label=ENT,              severity=moderate
+  Lần 6:  label=ENT,              severity=severe
+  Lần 7:  label=Gastroenterology, severity=mild
+  Lần 8:  label=Gastroenterology, severity=moderate
+  Lần 9:  label=Gastroenterology, severity=severe
+  Lần 10: label=Dermatology,      severity=mild
+  Lần 11: label=Dermatology,      severity=moderate
+  Lần 12: label=Dermatology,      severity=severe
+  Lần 13: label=Other-Medical,    severity=moderate
+  Lần 14: label=Other-Medical,    severity=severe
+
+  → Tổng: 14 lần × 20 câu = 280 câu
+  → Chạy 2-3 lần để đủ ~700 câu
+
+
+
+

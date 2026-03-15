@@ -1,0 +1,604 @@
+﻿disease_name,department
+Alzheimer,
+Buồng Trứng Đa Nang,
+Bàn Chân Đái Tháo Đường,
+Bàng Quang Tăng Hoạt,
+Béo Phì Độ 1,
+Béo Phì,
+Băng Huyết Sau Sinh,
+Bướu Cổ Lành Tính,
+Bướu Cổ Ác Tính,
+Bướu Giáp Keo,
+Bướu Giáp Lan Tỏa,
+Bướu Giáp Nhân Thùy Phải,
+Bướu Giáp Đa Nhân 2 Thùy,
+Bướu Tuyến Giáp Đa Nhân,
+Bế Sản Dịch,
+Bệnh Basedow,
+Bệnh Bạch Hầu,ENT
+Bệnh Chlamydia,
+Bệnh Chàm,Dermatology
+Bệnh Crohn,Gastroenterology
+Bệnh Cúm,Respiratory
+Bệnh Cơ Tim Giãn Nở,
+Bệnh Cơ Tim Phì Đại,
+Bệnh Cườm Nước Glaucoma,
+Bệnh Dại,
+Bệnh Giang Mai,Dermatology
+Bệnh Giun Lươn,Gastroenterology
+Bệnh Giun Rồng,Gastroenterology
+Bệnh Giun Đũa,Gastroenterology
+Bệnh Giun Đầu Gai,Gastroenterology
+Bệnh Giác Mạc Hình Chóp,
+Bệnh Gout Cấp Tính,
+Bệnh Gout,
+Bệnh Ho,Respiratory
+Bệnh Hở Van Tim,
+Bệnh Lao Phổi,Respiratory
+Bệnh Lý Ống Phúc Tinh Mạc,
+Bệnh Lậu,
+Bệnh Moyamoya,
+Bệnh Mù Màu,
+Bệnh Mạch Vành,
+Bệnh Nhiễm Sán Chó,Gastroenterology
+Bệnh Nhược Cơ,
+Bệnh Parkinson,
+Bệnh Phổi Tắc Nghẽn Mạn Tính (COPD),Respiratory
+Bệnh Polyp Mũi,ENT
+Bệnh Quai Bị,ENT
+Bệnh Rubella,Dermatology
+Bệnh Rận Mu,Dermatology
+Bệnh Sán Dây Lợn,Gastroenterology
+Bệnh Sán Dây,Gastroenterology
+Bệnh Sán Lá Gan,Gastroenterology
+Bệnh Tay Chân Miệng,Dermatology
+Bệnh Thoát Vị Bẹn,
+Bệnh Thần Kinh Ngoại Biên,
+Bệnh Thần Kinh Đái Tháo Đường,
+Bệnh Thần Kinh,
+Bệnh Thủy Đậu,Dermatology
+Bệnh Tim Bẩm Sinh Không Tím,
+Bệnh Tim Bẩm Sinh Tím,
+Bệnh Tim Bẩm Sinh,
+Bệnh Trĩ Huyết Khối,Gastroenterology
+Bệnh Trĩ Ngoại,Gastroenterology
+Bệnh Trĩ Nội,Gastroenterology
+Bệnh Trĩ Sau Sinh,Gastroenterology
+Bệnh Trĩ,Gastroenterology
+Bệnh Túi Thừa Đại Tràng,Gastroenterology
+Bệnh Tắc Tĩnh Mạch Võng Mạc,
+Bệnh Tự Miễn,
+Bệnh Van Tim,
+Bệnh Viêm Cơ Tim,
+Bệnh Viêm Gan B,Gastroenterology
+Bệnh Viêm Gan,Gastroenterology
+Bệnh Viêm Họng Cấp,ENT
+Bệnh Viêm Họng,ENT
+Bệnh Viêm Loét Dạ Dày,Gastroenterology
+Bệnh Viêm Tụy Cấp,Gastroenterology
+Bệnh Viêm Xoang,ENT
+Bệnh Võng Mạc Tiểu Đường,
+Bệnh Whitmore,
+Bệnh Xốp Xơ Tai,ENT
+Bệnh Đau Dây Thần Kinh Sinh Ba,
+Bệnh Đậu Mùa Khỉ,Dermatology
+Bệnh Đậu Mùa,Dermatology
+Bệnh Động Kinh,
+Bụi Phổi Silic,Respiratory
+Bụi Phổi,Respiratory
+Chuyển Dạ Kéo Dài,
+Chuyển Dạ Đình Trệ,
+Chuyển Phôi Thất Bại,
+Chàm Đồng Tiền,Dermatology
+Chóng Mặt Khi Nằm Xuống Giường,ENT
+Chóng Mặt Tư Thế Kịch Phát Lành Tính,ENT
+Chóng Mặt,ENT
+Chướng Bụng Đầy Hơi,Gastroenterology
+Chấn Thương Sọ Não,
+Chậm Kinh,
+Còi Xương,
+Còn Ống Động Mạch,
+Cúm A H5N1,Respiratory
+Cơn Gò Chuyển Dạ Giả,
+Cường Giáp,
+Cận Thị,
+Cứng Khớp,
+Dây Rốn Bám Màng,
+Dương Vật Cong,
+Dậy Thì Sớm,
+Dị Vật Trong Mắt,
+Dị Ứng Mắt,
+Gai Cột Sống,
+Gai Xương,
+Gan Nhiễm Mỡ Độ 1,Gastroenterology
+Gan Nhiễm Mỡ Độ 2,Gastroenterology
+Gan Nhiễm Mỡ Độ 3,Gastroenterology
+Gan Nhiễm Mỡ,Gastroenterology
+Gan To,Gastroenterology
+Giun Xoắn,Gastroenterology
+Giãn Phế Quản,Respiratory
+Giãn Tĩnh Mạch Thừng Tinh,
+Hen Suyễn,Respiratory
+Herpes Sinh Dục,Dermatology
+Herpes,Dermatology
+Hiếm Muộn,
+HPV,Dermatology
+Hạ Đường Huyết,
+Hạt Tophi,
+Hạt Xơ Dây Thanh Quảng,ENT
+Hậu Môn Bị Sưng,Gastroenterology
+Hẹp Bao Quy Đầu,
+Hẹp Khe Khớp Gối,
+Hẹp Mạch Vành,
+Hẹp Van Hai Lá,
+Hẹp Van Động Mạch Chủ,
+Hẹp Van Động Mạch Phổi,
+Hẹp Động Mạch Cảnh,
+Hội Chứng Brugada,
+Hội Chứng Fournier,
+Hội Chứng HELLP,
+Hội Chứng Kallmann,
+Hội Chứng Klinefelter,
+Hội Chứng Lối Thoát Lồng Ngực,
+Hội Chứng Mông Chết,
+Hội Chứng Ruột Kích Thích,Gastroenterology
+Hội Chứng Stevens Johnson,Dermatology
+Hội Chứng Sudeck,
+Hội Chứng Suy Giảm Miễn Dịch,
+Hội Chứng Swyer,
+Hội Chứng Thận Hư,
+Hội Chứng Ống Cổ Tay,
+Hở Van 2 Lá,
+Hở Van Tim 3 Lá,
+Insulinoma,
+Khàn Tiếng,ENT
+Khí Phế Thũng,Respiratory
+Khó Thở,Respiratory
+Khô Khớp,
+Khô Âm Đạo,
+Không Có Tinh Trùng,
+Liệt Dây Thanh Quản,ENT
+Liệt Mặt,ENT
+Loãng Xương,
+Loạn Thị,
+Lupus Ban Đỏ Dạng Đĩa,Dermatology
+Lupus Ban Đỏ Hệ Thống,Dermatology
+Lõm Ngực Bẩm Sinh,
+Lẹo Mắt,
+Lệch Vách Ngăn Mũi,ENT
+Lỗ Tiểu Lệch Thấp,
+Lỵ Amip,Gastroenterology
+Mang Thai Ngoài Tử Cung,
+Metapneumovirus,Respiratory
+Mô Vú Dày Đặc,
+Mất Cân Bằng Nội Tiết Tố,
+Mất Ngủ Kéo Dài,
+Mất Ngủ Sau Sinh,
+Mất Ngủ,
+Mề Đay,Dermatology
+Mộng Mắt,
+Mỡ Máu Cao,
+Mụn Bọc,Dermatology
+Mụn Cám,Dermatology
+Mụn Cóc Phẳng,Dermatology
+Mụn Cóc Ở Chân,Dermatology
+Mụn Cóc Ở Tay,Dermatology
+Mụn Cóc,Dermatology
+Mụn Nội Tiết,Dermatology
+Mụn Trứng Cá Tuổi Dậy Thì,Dermatology
+Mụn Trứng Cá Ở Cằm,Dermatology
+Mụn Trứng Cá Ở Lưng,Dermatology
+Mụn Trứng Cá,Dermatology
+Mụn Ẩn,Dermatology
+Nang Cơ Năng Buồng Trứng,
+Nang Vú,
+Nang Đơn Thận,
+Nghe Kém Một Bên Tai,ENT
+Nghe Kém,ENT
+Ngoại Tâm Thu Thất,
+Ngưng Thở Khi Ngủ,ENT
+Ngộ Độc Botulinum,Gastroenterology
+Ngộ Độc Thuốc Diệt Chuột,
+Ngộ Độc Thực Phẩm,Gastroenterology
+Ngủ Ngáy,ENT
+Ngứa Hậu Môn,Gastroenterology
+Nhau Bong Non,
+Nhau Bám Thấp,
+Nhau Tiền Đạo,
+Nhiễm Khuẩn H,Gastroenterology
+Nhiễm Khuẩn Đường Tiết Niệu,
+Nhiễm Ký Sinh Trùng,Gastroenterology
+Nhiễm Toan Ceton,
+Nhiễm Trùng Bàn Chân Tiểu Đường,
+Nhiễm Trùng Hậu Sản,
+Nhiễm Trùng Đường Ruột,Gastroenterology
+Nhiễm Vi Khuẩn Salmonella,Gastroenterology
+Nhiễm Ấu Trùng Sán Dây Lợn,Gastroenterology
+Nhân Tuyến Giáp,
+Nhịp Nhanh Nhĩ,
+Nhịp Nhanh Thất,
+Nhồi Máu Cơ Tim Không ST Chênh Lên,
+Nhồi Máu Cơ Tim Thất Phải,
+Nhồi Máu Não,
+Nám Da,Dermatology
+Nám Nội Tiết,Dermatology
+Não Úng Thủy,
+Nóng Gan,Gastroenterology
+Nấm Ống Tai Ngoài,ENT
+Nốt Ruồi,Dermatology
+Nứt Kẽ Hậu Môn,Gastroenterology
+Nữ Hóa Tuyến Vú,
+Omicron Tàng Hình,Respiratory
+Phát Ban Ở Ngực,Dermatology
+Phì Đại Tuyến Tiền Liệt,
+Phì Đại Tuyến Vú,
+Phù Mạch Bạch Huyết Cánh Tay,
+Phế Cầu Khuẩn,Respiratory
+Polyp Dây Thanh Quản,ENT
+Polyp Dạ Dày,Gastroenterology
+Polyp Hậu Môn,Gastroenterology
+Polyp Trực Tràng,Gastroenterology
+Polyp Đại Tràng,Gastroenterology
+Protein Niệu,
+Ra Mồ Hôi Tay Chân Nhiều,Dermatology
+Rau Bám Mép,
+Rau Cài Răng Lược,
+Rau Tiền Đạo,
+Rong Kinh Tiền Mãn Kinh,
+Rong Kinh,
+Rung Nhĩ,
+Rò Hậu Môn,Gastroenterology
+Rò Luân Nhĩ,ENT
+Rối Loạn Chuyển Hóa Bẩm Sinh,
+Rối Loạn Cương Dương,
+Rối Loạn Giấc Ngủ,
+Rối Loạn Giọng Nói,ENT
+Rối Loạn Kinh Nguyệt,
+Rối Loạn Lipid Máu,
+Rối Loạn Lo Âu Lan Tỏa,
+Rối Loạn Lo Âu,
+Rối Loạn Lưỡng Cực,
+Rối Loạn Nhịp Tim Chậm,
+Rối Loạn Nhịp Tim,
+Rối Loạn Nội Tiết Tố Sau Sinh,
+Rối Loạn Nội Tiết,
+Rối Loạn Phân Ly,
+Rối Loạn Sàn Chậu,
+Rối Loạn Tiêu Hóa,Gastroenterology
+Rối Loạn Tiền Đình,ENT
+Rụng Tóc,Dermatology
+Sa Sút Trí Tuệ,
+Sa Tinh Hoàn,
+Sa Trực Tràng,Gastroenterology
+Sa Tạng Chậu,
+Sa Tử Cung Khi Mang Thai,
+Sa Tử Cung,
+Sinh Non,
+Suy Buồng Trứng Sớm,
+Suy Gan Cấp,Gastroenterology
+Suy Gan Mãn Tính,Gastroenterology
+Suy Gan,Gastroenterology
+Suy Giãn Tĩnh Mạch Chi Dưới,
+Suy Giãn Tĩnh Mạch Sau Chi Dưới,
+Suy Giảm Testosterone,
+Suy Hô Hấp,Respiratory
+Suy Thận Cấp,
+Suy Thận Mạn,
+Suy Thận,
+Suy Tim Giai Đoạn Cuối,
+Suy Tim Mãn Tính,
+Suy Tim Mất Bù,
+Suy Tim Phải,
+Suy Tim Sung Huyết,
+Suy Tim Trái,
+Suy Tim,
+Suy Tuyến Thượng Thận,
+Suy Tĩnh Mạch Mạn Tính,
+Sán Lá Phổi,Respiratory
+Sán Lợn Gạo,Gastroenterology
+Són Tiểu,
+Sùi Mào Gà Ở Nữ,Dermatology
+Sùi Mào Gà,Dermatology
+Sản Giật,
+Sẹo Lồi,Dermatology
+Sẹo Rỗ,Dermatology
+Sỏi Bàng Quang,
+Sỏi Bùn Túi Mật,Gastroenterology
+Sỏi Mật,Gastroenterology
+Sỏi Niệu Quản,
+Sỏi Thận,
+Sỏi Tiết Niệu,
+Sỏi Ống Mật Chủ,Gastroenterology
+Sốt Rét,
+Sốt Siêu Vi,
+Sốt Xuất Huyết,
+Tai Biến Mạch Máu Não,
+Teo Cơ Do Đái Tháo Đường,
+Teo Tính Hoàn,
+Thai Lưu,
+Thay Đổi Sợi Bọc Tuyến Vú,
+Thiếu Men G6PD,
+Thiếu Máu Cơ Tim Cục Bộ Mạn Tính,
+Thiếu Máu Cơ Tim,
+Thiếu Máu Não,
+Thoái Hóa Khớp Cổ Chân,
+Thoái Hóa Khớp Cổ Tay,
+Thoái Hóa Khớp,
+Thoát Vị Khe Hoành,Gastroenterology
+Thuyên Tắc Ối,
+Thông Liên Nhĩ,
+Thông Liên Thất,
+Thận Đa Nang,
+Thừa Estrogen,
+Tim Đập Nhanh,
+Tinh Hoàn Lạc Chỗ,
+Tinh Hoàn Ẩn,
+Tinh Trùng Yếu,
+Tiêu Chảy,Gastroenterology
+Tiết Dịch Núm Vú,
+Tiền Sản Giật,
+Tiền Tiểu Đường,
+Tiểu Buốt,
+Tiểu Không Tự Chủ,
+Tiểu Đêm,
+Tiểu Đường Bị Ngứa Da,Dermatology
+Tiểu Đường Tuýp 1,
+Tiểu Đường Tuýp 2,
+Truyền Máu Song Thai,
+Trào Ngược Dạ Dày Thực Quản,Gastroenterology
+Trầm Cảm Sau Sinh,
+Trầm Cảm,
+Tái Cực Sớm,
+Táo Bón,Gastroenterology
+Tê Bì Chân Tay,
+Túi Phình Mạch Máu Não,
+Túi Thừa Niệu Đạo,
+Tăng Acid Uric Máu,
+Tăng Huyết Áp Thai Kỳ,
+Tăng Huyết Áp Vô Căn,
+Tăng Huyết Áp,
+Tăng Men Gan,Gastroenterology
+Tăng Tiết Mồ Hôi,Dermatology
+Tăng Áp Phổi,Respiratory
+Tật Khúc Xạ,
+Tắc Mạch Máu Não,
+Tắc Tia Sữa Sau Sinh,
+Tắc Vòi Trứng,
+Tắc Ống Dẫn Tinh,
+Tứ Chứng Fallot,
+U Máu,
+U Mềm Treo,Dermatology
+U Nang Buồng Trứng,
+U Nhú Sinh Dục,Dermatology
+U Nhầy Xoang Trán,ENT
+U Não Lành Tính,
+U Não,
+U Thận Lành Tính,
+U Trung Thất,Respiratory
+U Tuy Sống,
+U Tuyến Giáp,
+U Tuyến Nước Bọt Mang Tai,ENT
+U Tuyến Tùng,
+U Xơ Tử Cung Khi Mang Thai,
+U Xương,
+Ung Thư Biểu Mô Ống Tuyến Vú Tại Chỗ,
+Ung Thư Buồng Trứng Giai Đoạn 1,
+Ung Thư Buồng Trứng Giai Đoạn 4,
+Ung Thư Buồng Trứng,
+Ung Thư Cổ Tử Cung Giai Đoạn 1,
+Ung Thư Cổ Tử Cung Giai Đoạn 2,
+Ung Thư Cổ Tử Cung Giai Đoạn Cuối,
+Ung Thư Cổ Tử Cung,
+Ung Thư Da,Dermatology
+Ung Thư Dương Vật,
+Ung Thư Dạ Dày Di Căn,Gastroenterology
+Ung Thư Dạ Dày Giai Đoạn Cuối,Gastroenterology
+Ung Thư Dạ Dày,Gastroenterology
+Ung Thư Gan,Gastroenterology
+Ung Thư Phổi Không Tế Bào Nhỏ Giai Đoạn 1,Respiratory
+Ung Thư Phổi Không Tế Bào Nhỏ Giai Đoạn 2,Respiratory
+Ung Thư Phổi Không Tế Bào Nhỏ Giai Đoạn 3,Respiratory
+Ung Thư Phổi,Respiratory
+Ung Thư Thanh Quản,ENT
+Ung Thư Thận,
+Ung Thư Thực Quản,Gastroenterology
+Ung Thư Tinh Hoàn,
+Ung Thư Tuyến Giáp,
+Ung Thư Tuyến Tiền Liệt,
+Ung Thư Vòm Họng Giai Đoạn 0,ENT
+Ung Thư Vòm Họng Giai Đoạn 1,ENT
+Ung Thư Vòm Họng Giai Đoạn 2,ENT
+Ung Thư Vòm Họng Giai Đoạn 3,ENT
+Ung Thư Vòm Họng Giai Đoạn Đầu,ENT
+Ung Thư Vòm Họng,ENT
+Ung Thư Vú Giai Đoạn 0,
+Ung Thư Vú Giai Đoạn 1,
+Ung Thư Vú Giai Đoạn 2,
+Ung Thư Vú Giai Đoạn 3,
+Ung Thư Vú Giai Đoạn 4,
+Ung Thư Vú Giai Đoạn Đầu,
+Ung Thư Vú Tái Phát,
+Ung Thư Vú,
+Ung Thư Xương,
+Ung Thư Đại Tràng Giai Đoạn 0,Gastroenterology
+Ung Thư Đại Tràng Giai Đoạn 1,Gastroenterology
+Ung Thư Đại Tràng Giai Đoạn 2,Gastroenterology
+Ung Thư Đại Tràng Giai Đoạn 3,Gastroenterology
+Ung Thư Đại Tràng Giai Đoạn 4,Gastroenterology
+Ung Thư Đại Tràng,Gastroenterology
+Viêm Amidan Hốc Mủ,ENT
+Viêm Amidan Mạn Tính,ENT
+Viêm Amidan,ENT
+Viêm Bao Gan Ngón Tay,
+Viêm Bao Hoạt Dịch Cổ Tay,
+Viêm Bao Hoạt Dịch Khớp Cổ Chân,
+Viêm Bao Hoạt Dịch Khớp Gối,
+Viêm Bao Hoạt Dịch Khớp Háng,
+Viêm Bao Hoạt Dịch Khớp Vai,
+Viêm Bao Quy Đầu,
+Viêm Bàng Quang Cấp,
+Viêm Bàng Quang Kẽ,
+Viêm Bàng Quang Mạn Tính,
+Viêm Bàng Quang Xuất Huyết,
+Viêm Bàng Quang Ở Nữ Giới,
+Viêm Bàng Quang,
+Viêm Bể Thận,
+Viêm Bờ Mi Trên Mắt,
+Viêm Cầu Thận Cấp,
+Viêm Cầu Thận Lupus,
+Viêm Cầu Thận Mạn,
+Viêm Cầu Thận,
+Viêm Da Cơ Địa,Dermatology
+Viêm Da Dị Ứng,Dermatology
+Viêm Da Xoang,Dermatology
+Viêm Dạ Dày Cấp,Gastroenterology
+Viêm Dạ Dày Tá Tràng,Gastroenterology
+Viêm Dạ Dày,Gastroenterology
+Viêm Gan A,Gastroenterology
+Viêm Gan C,Gastroenterology
+Viêm Gan Gót Chân Achilles,
+Viêm Gan Gấp Ngón Tay Cái,
+Viêm Gan Mạn Tính,Gastroenterology
+Viêm Gan Tự Miễn,Gastroenterology
+Viêm Hang Vị Dạ Dày,Gastroenterology
+Viêm Hậu Môn,Gastroenterology
+Viêm Họng Hạt,ENT
+Viêm Họng Xuất Huyết,ENT
+Viêm Khớp Cấp,
+Viêm Khớp Cổ Tay,
+Viêm Khớp Liên Cầu,
+Viêm Khớp Ngón Tay,
+Viêm Khớp Nhiễm Khuẩn,
+Viêm Khớp Phản Ứng,
+Viêm Khớp Vảy Nến,Dermatology
+Viêm Khớp,
+Viêm Kết Mạc,
+Viêm Loét Dạ Dày Tá Tràng,Gastroenterology
+Viêm Loét Giác Mạc,
+Viêm Màng Bồ Đào,
+Viêm Màng Não Mô Cầu,
+Viêm Màng Não Mủ,
+Viêm Màng Não,
+Viêm Mào Tinh Hoàn,
+Viêm Mũi Dị Ứng Thời Tiết,ENT
+Viêm Mũi Dị Ứng,ENT
+Viêm Mũi Mạn Tính,ENT
+Viêm Mũi,ENT
+Viêm Mống Mắt,
+Viêm Niêm Mạc Dạ Dày,Gastroenterology
+Viêm Niệu Đạo,
+Viêm Nội Mạc Tử Cung,
+Viêm Phế Quản Mạn Tính,Respiratory
+Viêm Phế Quản Phổi,Respiratory
+Viêm Phổi Do Metapneumovirus,Respiratory
+Viêm Phổi,Respiratory
+Viêm Ruột Mạn Tính,Gastroenterology
+Viêm Ruột Thừa Cấp,Gastroenterology
+Viêm Ruột Thừa,Gastroenterology
+Viêm Tai Giữa Thủng Màng Nhĩ,ENT
+Viêm Tai Giữa Ứ Dịch,ENT
+Viêm Tai Giữa Ứ Mủ,ENT
+Viêm Tai Giữa,ENT
+Viêm Tai Ngoài,ENT
+Viêm Tai Xương Chũm,ENT
+Viêm Tai,ENT
+Viêm Thanh Quản,ENT
+Viêm Thận Bể Thận Cấp,
+Viêm Thận Lupus,
+Viêm Tinh Hoàn,
+Viêm Trực Tràng,Gastroenterology
+Viêm Tuyến Giáp,
+Viêm Tuyến Nước Bọt,ENT
+Viêm Tuyến Tiền Liệt Cấp Tính,
+Viêm Tuyến Tiền Liệt Mạn Tính,
+Viêm Tuyến Tiền Liệt,
+Viêm Tuyến Vú,
+Viêm Túi Mật,Gastroenterology
+Viêm Tụy Mạn Tính,Gastroenterology
+Viêm Tụy,Gastroenterology
+Viêm Xoang Bướm,ENT
+Viêm Xoang Cấp Tính,ENT
+Viêm Xoang Do Nấm,ENT
+Viêm Xoang Hàm,ENT
+Viêm Xoang Mũi Dị Ứng,ENT
+Viêm Xoang Mạn Tính,ENT
+Viêm Xoang sàng,ENT
+Viêm Xoang Trán,ENT
+Viêm Xung Huyết Hang Vị Dạ Dày,Gastroenterology
+Viêm Âm Đạo Mạn Tính,
+Viêm Âm Đạo,
+Viêm Đường Hô Hấp Dưới,Respiratory
+Viêm Đường Ruột,Gastroenterology
+Viêm Đường Tiết Niệu Khi Mang Thai,
+Viêm Đường Tiết Niệu Sau Sinh,
+Viêm Đường Tiết Niệu,
+Viêm Đại Tràng,Gastroenterology
+Viễn Thị,
+Vô Sinh Hiếm Muộn,
+Vô Sinh Nguyên Phát,
+Vô Sinh Nữ,
+Vô Sinh,
+Vôi Hóa Xương,
+Vỡ Mạch Máu Não,
+Vỡ Túi Ngực,
+Vỡ Tử Cung,
+Xoắn Tinh Hoàn,
+Xuất Huyết Dạ Dày,Gastroenterology
+Xuất Huyết Tiêu Hóa,Gastroenterology
+Xuất Huyết Tử Cung Bất Thường,
+Xuất Tinh Ngược Dòng,
+Xuất Tinh Sớm,
+Xơ Cứng Bi Khu Trú,Dermatology
+Xơ Cứng Bi Toàn Thể,Dermatology
+Xơ Cứng Bi,Dermatology
+Xơ Gan Còn Bù,Gastroenterology
+Xơ Gan Cổ Trướng,Gastroenterology
+Xơ Gan Do Rượu,Gastroenterology
+Xơ Gan Mật Bù,Gastroenterology
+Xơ Gan,Gastroenterology
+Xơ Phổi,Respiratory
+Xơ Vữa Động Mạch Vành,
+Xơ Vữa Động Mạch,
+Xẹp Đốt Sống,
+Yếu Sinh Lý Ở Nữ,
+Yếu Sinh Lý,
+Áp Xe Hậu Môn,Gastroenterology
+Áp Xe Phổi,Respiratory
+Ăn Không Tiêu,Gastroenterology
+Đau Bụng Kinh,
+Đau Cổ Tay Sau Sinh,
+Đau Dạ Dày,Gastroenterology
+Đau Họng,ENT
+Đau Khớp Gối,
+Đau Khớp Khuỷu Tay,
+Đau Khớp,
+Đau Mắt,
+Đau Nhức Hốc Mắt,ENT
+Đau Nửa Đầu Bên Phải,
+Đau Nửa Đầu Bên Trái,
+Đau Nửa Đầu Phía Sau,
+Đau Nửa Đầu Phía Trước,
+Đau Nửa Đầu,
+Đau Thắt Ngực,
+Đau Tinh Hoàn Bên Phải,
+Đau Tinh Hoàn Bên Trái,
+Đau Tinh Hoàn,
+Đau Vú,
+Đau Đầu Gối Khi Đứng Lên Ngồi Xuống,
+Đau Đầu Migraine,
+Đau Đầu Sau Gáy,
+Đau Đầu Vận Mạch,
+Đau Đầu,
+Đau Đỉnh Đầu,
+Điều Trị Chứng Rối Loạn Tiền Mãn Kinh,
+Đái Tháo Đường Thai Kỳ,
+Đái Tháo Đường,
+Đái Tiểu Ra Máu,
+Đĩa Đệm Mất Nước,
+Đạm Niệu,
+Động Mạch Cảnh,
+Đột Quỵ Thiếu Máu Cục Bộ,
+Đột Quỵ,
+Đục Thủy Tinh Thể,
+Ối Vỡ Non,
+Ốm Nghén Khi Mang Thai,
