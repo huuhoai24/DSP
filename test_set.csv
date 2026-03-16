@@ -1,0 +1,157 @@
+text,label,severity
+"Tôi hiện đang có các triệu chứng như sốt cao, ớn lạnh và ho khan. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi đang bị sốt cao, đổ mồ hôi và khó thở. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi đang cảm thấy khó thở, tức ngực và sốt cao. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho ra máu tươi, sút cân nhanh, mệt mỏi kéo dài. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi khó thở khi nằm, phải kê cao gối, ho về đêm nhiều. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi sốt cao đột ngột, đau ngực một bên, ho có đờm gỉ sắt. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho khan kéo dài, khó thở tăng dần, da tái nhợt. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho nhiều, khạc đờm đặc xanh, sốt về chiều. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở khi gắng sức, môi tím, tim đập nhanh. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho dai dẳng, khạc đờm hôi, hay viêm phổi tái phát. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt nhẹ kéo dài, ho có đờm lẫn máu, sút cân. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở nặng, tức ngực, ho ra bọt hồng. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho khan về đêm, khò khè, dùng thuốc cắt cơn thường xuyên. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt cao, rét run, đau ngực khi hít sâu. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho có đờm vàng xanh, sốt, mệt mỏi sau cảm cúm. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở khi vận động nhẹ, ho kéo dài, mệt mỏi. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi ho ra máu nhiều lần, đau ngực dai dẳng, sút cân nhanh. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi sốt cao, ho có đờm đặc, đau ngực lan vai. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi khó thở tăng dần, ho khan, da xanh tái. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho nhiều về sáng, khạc đờm dính, khó thở. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt run, đau ngực dữ dội, ho ra đờm lẫn máu. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho dai dẳng, mệt mỏi, sút cân không rõ lý do. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở khi leo cầu thang, ho có đờm xanh. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi ho khan về đêm, tức ngực, dùng bình xịt thường xuyên. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt cao, ớn lạnh, ho ra đờm có mùi. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi hiện đang có các triệu chứng như sổ mũi, chảy ra chất mủ nhầy đôi khi có máu, có màng trắng ở vách ngăn mũi. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi cảm thấy khó thở và có tiếng rít khi thở, kèm theo sốt và ho. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi đang bị khó thở và thở khò khè. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi đang cảm thấy đau họng kèm sốt, hạch cổ, amidan có mủ. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi hay đau họng kèm ho nhiều, đờm có lẫn máu. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi hiện đang có triệu chứng đau họng và khó thở. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi hiện đang có các triệu chứng như nghẹt mũi liên tục và mất khứu giác. Tôi có thể đang bị bệnh gì?",ent,mild
+"Tôi đang cảm thấy đau nhức vùng mặt và thường xuyên khạc đàm. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi hay bị nghẹt mũi, đặc biệt là về đêm, kèm theo chảy nước mũi. Tôi có thể đang bị bệnh gì?",ent,mild
+"Tôi hiện đang có triệu chứng sưng đau tuyến mang tai lan đến má và dưới hàm. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi hay bị sưng đau tuyến mang tai và sốt cao, kéo dài khoảng một tuần. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau tai dữ dội, sốt cao, nghe mọi thứ bị ù. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi chảy mủ tai màu vàng, đau tai tăng khi nuốt, sốt. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi nghe kém dần một bên, ù tai liên tục, thỉnh thoảng chảy dịch. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi khàn tiếng kéo dài, nuốt vướng, amidan có caseum trắng hôi. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi khàn đặc, mất tiếng khi nói to, cảm giác vướng dị vật ở họng. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau họng dữ dội, nuốt đau lan lên tai, sốt cao. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi nghẹt mũi hai bên luân phiên, đau đầu vùng trán, dịch mũi chảy xuống họng. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi giảm khứu giác, đau mặt khi cúi đầu, hơi thở hôi. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau quanh mắt và má, nghẹt mũi kéo dài nhiều tháng. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi ho do dịch mũi chảy xuống họng, đau đầu buổi sáng. Tôi có thể đang bị bệnh gì?",ent,mild
+"Tôi sưng đau tuyến mang tai, sốt, đau khi nhai. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi khàn tiếng tiến triển chậm, giọng yếu dần, khó nói to. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau tai lan lên đầu, chóng mặt, nghe kém đột ngột. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi amidan sưng to có mủ trắng, hôi miệng, sốt tái phát. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi nghẹt mũi, chảy dịch vàng xanh, ho nhiều về đêm. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau họng kèm sưng hạch cổ, sốt nhẹ kéo dài. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi khàn tiếng hơn 3 tuần, ho ra máu nhẹ, sụt cân. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi đau tai dữ dội sau khi bơi, sốt, chảy mủ tai. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi nghẹt mũi một bên, chảy máu mũi thường xuyên, giảm khứu giác. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi khàn tiếng, nuốt đau, hạch cổ sưng to. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi đau họng kèm sốt cao, amidan có màng trắng xám. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi ù tai liên tục, nghe kém, chóng mặt khi thay đổi tư thế. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi chảy dịch tai có mùi hôi, đau tai về đêm. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau mặt vùng xoang, sốt, nghẹt mũi nặng. Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi khàn tiếng sau khi nói nhiều, mất hơi khi nói, vướng họng. Tôi có thể đang bị bệnh gì?",ent,mild
+"Tôi sốt cao, đau tai, quấy khóc, bỏ bú (trẻ). Tôi có thể đang bị bệnh gì?",ent,severe
+"Tôi nghẹt mũi mãn tính, đau đầu dai dẳng, dịch mũi sau họng. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi đau họng tái phát nhiều lần/năm, amidan to có sẹo. Tôi có thể đang bị bệnh gì?",ent,moderate
+"Tôi nổi mẩn đỏ ngứa khắp người, đặc biệt về đêm. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi bị mề đay tái phát sau ăn hải sản hoặc căng thẳng. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn viêm to ở cằm, quai hàm trước kỳ kinh, đau nhức. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn đầu đen chi chít ở trán, má, da dầu nhiều. Tôi có thể đang bị bệnh gì?",dermatology,mild
+"Tôi nám hai bên má đậm hơn sau mang thai, tăng khi đi nắng. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn bọc to, đau ở lưng, ngực, để lại sẹo lồi. Tôi có thể đang bị bệnh gì?",dermatology,severe
+"Tôi da khô, ngứa, nổi mẩn đỏ ở nếp gấp, chảy nước khi gãi. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mảng da đỏ dày vảy trắng ở khuỷu tay, đầu gối, ngứa nhiều. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn nước đau rát vùng sinh dục, sốt nhẹ, sưng hạch bẹn. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi nốt sùi mềm không đau ở hậu môn, sinh dục. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi phát ban cánh bướm trên mặt, đau khớp, mệt mỏi, sốt nhẹ. Tôi có thể đang bị bệnh gì?",dermatology,severe
+"Tôi nổi mẩn đỏ, ngứa dữ dội vùng tiếp xúc hóa chất, chảy nước. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi da sạm, nám vùng trán má, kinh nguyệt không đều, cáu gắt. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn viêm sưng tấy ở cổ, lưng, kèm rối loạn kinh nguyệt. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi nổi mụn cóc ở tay chân, ngứa, lan rộng. Tôi có thể đang bị bệnh gì?",dermatology,mild
+"Tôi da đỏ, bong tróc, ngứa quanh khuỷu tay, đầu ngón tay. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn mủ, u nang ở mặt, lưng, đau, mất thẩm mỹ. Tôi có thể đang bị bệnh gì?",dermatology,severe
+"Tôi ngứa hậu môn dữ dội về đêm, hay gãi trầy xước. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau nhói như cắt khi đi đại tiện, máu đỏ tươi trên giấy. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng quặn từng cơn, tiêu chảy, phân có nhầy máu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi vàng da, vàng mắt, mệt mỏi, nước tiểu sẫm, phân bạc màu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau thượng vị lúc đói, ợ chua, đôi khi nôn ra máu đen. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi bụng chướng to, vàng da, chảy máu chân răng, mệt nặng. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi tiêu chảy mạn tính, đau bụng, sút cân, phân có máu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau bụng âm ỉ, đầy hơi, chướng bụng sau ăn. Tôi có thể đang bị bệnh gì?",gastroenterology,mild
+"Tôi đi ngoài ra máu tươi, thay đổi thói quen đại tiện. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng dữ dội, nôn mửa, tiêu chảy sau ăn hải sản. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi chán ăn, buồn nôn, đau hạ sườn phải sau uống rượu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi táo bón kéo dài, đau khi đại tiện, máu dính giấy. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng tái phát liên quan đi tiêu, chướng bụng. Tôi có thể đang bị bệnh gì?",gastroenterology,mild
+"Tôi tiêu chảy nhiều lần/ngày, phân lỏng, mệt mỏi. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng quặn, sốt, tiêu chảy ra máu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đầy bụng, khó tiêu, ợ chua sau ăn đồ dầu mỡ. Tôi có thể đang bị bệnh gì?",gastroenterology,mild
+"Tôi sụt cân, chán ăn, phân đen, mệt mỏi. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau bụng âm ỉ, tiêu chảy kéo dài, sút cân. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đi ngoài phân lỏng có mùi hôi tanh, đau bụng. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng dữ dội, nôn, tiêu chảy sau ăn thức ăn lạ. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi táo bón, phân cứng, đau hậu môn khi đại tiện. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi vàng da nhẹ, men gan tăng, mệt mỏi. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng, tiêu chảy, sốt sau đi du lịch. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi ho khan kéo dài, sốt nhẹ về chiều, mệt mỏi. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở tăng khi gắng sức, môi tím tái, ho nhiều. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho ra máu ít, sút cân, đau ngực âm ỉ. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi sốt cao, ho có đờm đặc, đau ngực một bên. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi khó thở khi nằm nghiêng, ho về đêm, mệt lả. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho dai dẳng, khạc đờm xanh, sốt tái phát. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi ho khan về đêm, tức ngực, dùng ventolin thường xuyên. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt run, rét lạnh, đau ngực khi hít sâu. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho có đờm lẫn máu, sút cân nhanh, mệt mỏi. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi khó thở nặng, ho ra bọt hồng, da tái. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho nhiều về sáng, khạc đờm dính khó khạc. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt cao đột ngột, đau ngực dữ dội, ho ra đờm. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi ho kéo dài, mệt mỏi, sút cân không lý do. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi khó thở khi leo cầu thang, ho có đờm xanh. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi ho khan, khò khè, dùng thuốc cắt cơn liên tục. Tôi có thể đang bị bệnh gì?",respiratory,moderate
+"Tôi sốt cao, ớn lạnh, ho ra đờm hôi. Tôi có thể đang bị bệnh gì?",respiratory,severe
+"Tôi nổi mụn nước ngứa rát vùng sinh dục, sốt nhẹ. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi có nốt sùi mềm ở hậu môn, sinh dục, không đau. Tôi có thể đang bị bệnh gì?",dermatology,mild
+"Tôi phát ban đỏ hình cánh bướm trên mặt, đau khớp. Tôi có thể đang bị bệnh gì?",dermatology,severe
+"Tôi da khô nứt nẻ, ngứa nhiều ở nếp gấp. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi vảy nến mảng đỏ dày vảy trắng, ngứa dữ dội. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn nang nặng, đau nhức ở lưng, để lại sẹo. Tôi có thể đang bị bệnh gì?",dermatology,severe
+"Tôi nổi mẩn đỏ ngứa sau tiếp xúc hóa chất. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi nám da mặt đậm, tăng khi ra nắng. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi mụn nội tiết ở cằm, đau trước kỳ kinh. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi ngứa da toàn thân, da khô, nổi mẩn đỏ. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi nổi mụn cóc sinh dục, ngứa nhẹ, lan dần. Tôi có thể đang bị bệnh gì?",dermatology,mild
+"Tôi da đỏ bong tróc ở khuỷu tay, đầu gối. Tôi có thể đang bị bệnh gì?",dermatology,moderate
+"Tôi đau bụng quặn, tiêu chảy ra máu, sút cân. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi vàng da, mệt mỏi, nước tiểu sẫm màu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau thượng vị lúc đói, ợ chua, nôn đen. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi bụng chướng, vàng da, phù chân. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi tiêu chảy mạn, đau bụng, phân có máu. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi táo bón kéo dài, máu đỏ tươi khi đại tiện. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đầy hơi, khó tiêu sau ăn dầu mỡ. Tôi có thể đang bị bệnh gì?",gastroenterology,mild
+"Tôi đau bụng âm ỉ, tiêu chảy xen kẽ táo bón. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi sụt cân, phân đen, mệt mỏi. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau bụng quặn, sốt, tiêu chảy. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi vàng da nhẹ, men gan cao, mệt mỏi. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng, tiêu chảy sau ăn lạ. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi táo bón, đau hậu môn, máu dính giấy. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đau bụng dữ dội, nôn ói, phân lỏng. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi vàng da, chán ăn, mệt mỏi kéo dài. Tôi có thể đang bị bệnh gì?",gastroenterology,severe
+"Tôi đau hạ sườn phải, sốt nhẹ, nước tiểu sẫm. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Tôi đầy bụng, ợ chua, khó tiêu sau bữa ăn. Tôi có thể đang bị bệnh gì?",gastroenterology,mild
+"Tôi tiêu chảy xen kẽ táo bón, đau bụng âm ỉ. Tôi có thể đang bị bệnh gì?",gastroenterology,moderate
+"Bé nhà em sốt cao 39.5 từ chiều, ho khan nhiều, thở hơi nhanh. Có phải bị gì nặng không chị?",respiratory,severe
+"Con em khó thở lắm, nằm xuống là ho sặc sụa, phải kê gối cao mới đỡ. Giờ sốt 38.8 rồi.",respiratory,severe
+"Ho ra ít máu đỏ tươi, sút cân thấy rõ, mệt mỏi cả ngày. Em lo quá chị ơi.",respiratory,severe
+"Bé thở khò khè suốt đêm, dùng ventolin mãi không đỡ, da tái nhợt. Có nguy hiểm không?",respiratory,severe
+"Ho dai dẳng cả tuần, khạc đờm xanh đặc, sốt về chiều. Trước hay bị viêm phổi.",respiratory,moderate
+"Sốt nhẹ 37.8 kéo dài 5 ngày, ho có đờm lẫn máu ít, ăn kém sút cân. Nên đi khám gấp hả chị?",respiratory,moderate
